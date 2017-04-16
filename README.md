@@ -9,7 +9,7 @@ Vagrant box for MQTT over Websocket
 ### How to start?
 
 1. Clone this repository or download as zip to your computer.
-2. You can vagrant up from this [Vagrant Box]()
+2. You can vagrant up from this [Vagrant Box](https://www.dropbox.com/s/f809tikp6amturk/mqttoverws.box?dl=0)
 3. Or, you can vagrant init from this Vagrantfile
 4. Use username `vagrant` and password `admin123`
 5. Finally, explore that projects related!
